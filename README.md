@@ -9,7 +9,7 @@ Pro jednoduchý a pohodlný začátek budete potřebovat pár programů
 
 LM Studio - LLM analýzu textu
 Modely - Doporučuji Granite 4.0 350M IBM
-z Huggingfacu Linky doplním
+z Huggingksichtu Linky doplním
 
 PyCharm Jakožto IDE
 
