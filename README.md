@@ -2,7 +2,9 @@
 
 Jedná se o automatický extraktor prácí dostupných na ruzných webech. Ano je z česka. Celý program je napsán v jedné pythonovém souboru pro jednoduché spuštění. 
 
+
 **Jak Začít**
+
 Pro jednoduchý a pohodlný začátek budete potřebovat pár programů
 
 LM Studio - LLM analýzu textu
