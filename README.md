@@ -69,4 +69,6 @@ Times are tough.
 
 Python isn't my primary language.
 
-LLM is being used as a wrapper.
+LLM is being used as a helper.
+
+Ai allowed.
