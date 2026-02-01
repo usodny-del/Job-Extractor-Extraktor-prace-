@@ -19,6 +19,9 @@ Vytvoříte si nový projekt a pře-kopírute kód dáte spustit vyskytnou se v�
 Vyskočí na vás okno programu  od tam zatím už můžete dělat vaši extrakci.
 
 
+
+
+
 **Spolupráce**
 
 Softwarová verze pre Alpha 0.01 
@@ -26,3 +29,10 @@ Softwarová verze pre Alpha 0.01
 Comity jsou výtány!!!
 
 Teď je to zatím vše.
+
+Časy jsou kruté.
+
+Python není můj primární jazyk.
+
+LLM používáno jako berlička.
+Ai POVOLENO.
